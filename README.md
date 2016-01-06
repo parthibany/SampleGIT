@@ -5,4 +5,6 @@ function a(){
 fucntion aa(){
 return 1;
 }
+fucntion c(){
 
+}
